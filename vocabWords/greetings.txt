@@ -1,0 +1,10 @@
+Hola-Hello
+Adiós-Goodbye
+Buenos-Morning
+Tardes-Afternoon
+Noches-Night
+Saludos-Greetings
+Chao-Bye
+Hasta-Until
+Luego-Later
+Pronto-Soon

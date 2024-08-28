@@ -1,0 +1,10 @@
+Lunes-Monday
+Martes-Tuesday
+Miércoles-Wednesday
+Jueves-Thursday
+Viernes-Friday
+Sábado-Saturday
+Domingo-Sunday
+Semana-Week
+Hoy-Today
+Mañana-Tomorrow
