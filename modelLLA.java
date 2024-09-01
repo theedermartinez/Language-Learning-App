@@ -33,7 +33,7 @@ public class modelLLA
         return menuString;
     }
     
-
+    //gets the set that will be practiced, also sets the high score by passing the name and retriving the correct hashmap!
     public HashMap getSetToStudy(int userChoice) throws FileNotFoundException
     {
         if (userChoice == 1) 
